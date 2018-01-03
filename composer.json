@@ -1,6 +1,14 @@
 {
     "name": "infocert/top/onboardingservice",
-    "description": "Package generated from main.wsdl using wsdltophp/packagegenerator",
+    "description": "Classes for InfoCert TOP OnboardingService",
+    "homepage": "https://github.com/norberto-ostallo/infocert-top-onboardingservice",
+    "authors": [
+        {
+            "name": "Norberto Ostallo",
+            "email": "norberto.ostallo@gmail.com",
+            "role": "Project Manager"
+        }
+    ],
     "require": {
         "php": ">=5.3.3",
         "ext-soap": "*",
