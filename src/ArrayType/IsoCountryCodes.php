@@ -5,7 +5,7 @@ namespace InfoCert\Top\OnboardingService\ArrayType;
 /**
  * This class stands for IsoCountryCodes ArrayType
  */
-class IsoCountyCodes
+class IsoCountryCodes
 {
   
     /**
