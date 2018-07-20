@@ -2,7 +2,7 @@
 
 The project contains PHP classes to interact with InfoCert TOP OnboardingService.
 
-TOP documentation: https://cop.infocert.it/documentation/
+TOP documentation: https://docs.infocert.digital/top/
 
 ## Code
 Most of the code has been automatically generated from the WSDL by using [providr.IO](https://providr.io/).
